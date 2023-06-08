@@ -1,4 +1,4 @@
-# Country-search- Application
+
 
 # Country-search-Application
 
@@ -6,8 +6,8 @@ This is an application where users can input the name of any country and the det
 
 ### Screenshot
 
-![](img./image1.png)
-![](img./image2.png)
+![](img/image1.png)
+![](img/image2.png)
 
 ### Links
 
